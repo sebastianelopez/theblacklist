@@ -1,0 +1,29 @@
+.fondooscuro{
+    background-color: #000000;
+}
+h1,h2,h3,h4,h5{
+    color: #f80000;
+    font-family: 'Bangers', cursive;
+}
+
+.textorojo{
+    color: #f80000;
+    font-family: 'Bangers', cursive;
+}
+
+.textogeneral{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+a{
+  font-family: 'Baloo Bhai 2', cursive;  
+}
+
+bgboton{
+    background-color: #f80000;
+    border-color: #f80000;
+    color: white;
+}
+.bg{
+    background-image: url("../imagenes/fondo.jpg");
+    background-repeat: repeat;    
+}
